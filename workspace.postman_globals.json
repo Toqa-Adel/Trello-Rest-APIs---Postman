@@ -1,0 +1,27 @@
+{
+	"id": "4584d972-a842-41fb-8b32-c419bbd20b35",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "https://api.trello.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "ATTA373fc8f1d8b7688343fdc236c5b7b0eb9fa23ffbea1efde7b4ae08d386d1cd0598212C1F",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "key",
+			"value": "e1ce1e17c5882274af0b61e8f965f04a",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-01-19T10:08:16.161Z",
+	"_postman_exported_using": "Postman/10.8.4-230116-1713"
+}
