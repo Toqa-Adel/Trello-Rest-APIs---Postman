@@ -87,11 +87,6 @@ The Postman collection includes the following types of requests:
   - Add label to card
   - Get card labels
 
-- ⛔ **More endpoints...**
-  - <!-- TODO: Add any other endpoint groups you've included -->
-
-Each request uses environment or global variables for authentication and URLs.
-
 ---
 
 ## 🧪 Tests & Automation
